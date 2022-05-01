@@ -1,0 +1,15 @@
+C:\data\_js\_s3\c#_dz1\task_8\bin\Debug\net6.0\task_8.exe
+C:\data\_js\_s3\c#_dz1\task_8\bin\Debug\net6.0\task_8.deps.json
+C:\data\_js\_s3\c#_dz1\task_8\bin\Debug\net6.0\task_8.runtimeconfig.json
+C:\data\_js\_s3\c#_dz1\task_8\bin\Debug\net6.0\task_8.dll
+C:\data\_js\_s3\c#_dz1\task_8\bin\Debug\net6.0\task_8.pdb
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.csproj.AssemblyReference.cache
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.AssemblyInfoInputs.cache
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.AssemblyInfo.cs
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.csproj.CoreCompileInputs.cache
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.dll
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\refint\task_8.dll
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.pdb
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\task_8.genruntimeconfig.cache
+C:\data\_js\_s3\c#_dz1\task_8\obj\Debug\net6.0\ref\task_8.dll
