@@ -1,0 +1,15 @@
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\bin\Debug\net6.0\task_62.exe
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\bin\Debug\net6.0\task_62.deps.json
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\bin\Debug\net6.0\task_62.runtimeconfig.json
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\bin\Debug\net6.0\task_62.dll
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\bin\Debug\net6.0\task_62.pdb
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.csproj.AssemblyReference.cache
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.AssemblyInfoInputs.cache
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.AssemblyInfo.cs
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.csproj.CoreCompileInputs.cache
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.dll
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\refint\task_62.dll
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.pdb
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\task_62.genruntimeconfig.cache
+C:\data\_js\_s3\HomeWork\c#_dz8\task_62\obj\Debug\net6.0\ref\task_62.dll
