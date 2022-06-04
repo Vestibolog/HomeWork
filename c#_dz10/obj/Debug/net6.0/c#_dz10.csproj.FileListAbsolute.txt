@@ -1,0 +1,15 @@
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.csproj.AssemblyReference.cache
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.GeneratedMSBuildEditorConfig.editorconfig
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.AssemblyInfoInputs.cache
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.AssemblyInfo.cs
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.csproj.CoreCompileInputs.cache
+C:\data\_js\_s3\HomeWork\c#_dz10\bin\Debug\net6.0\c#_dz10.exe
+C:\data\_js\_s3\HomeWork\c#_dz10\bin\Debug\net6.0\c#_dz10.deps.json
+C:\data\_js\_s3\HomeWork\c#_dz10\bin\Debug\net6.0\c#_dz10.runtimeconfig.json
+C:\data\_js\_s3\HomeWork\c#_dz10\bin\Debug\net6.0\c#_dz10.dll
+C:\data\_js\_s3\HomeWork\c#_dz10\bin\Debug\net6.0\c#_dz10.pdb
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.dll
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\refint\c#_dz10.dll
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.pdb
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\c#_dz10.genruntimeconfig.cache
+C:\data\_js\_s3\HomeWork\c#_dz10\obj\Debug\net6.0\ref\c#_dz10.dll
